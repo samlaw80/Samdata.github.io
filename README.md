@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-## Project 1
+## Chocolate Sales Analysis Dashboard
 
 **Title:**
 
