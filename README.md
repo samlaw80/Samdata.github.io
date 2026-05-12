@@ -2,7 +2,7 @@
 ## Project 1
 
 **Title:**
-Chocolate Sales Analysis Dashboard
+[Chocolate Sales Analysis Dashboard](https://github.com/samlaw80/Samuel-Lawal/raw/refs/heads/main/second%20dash.pbix)
 
 **Tools Used:**
  Power BI
