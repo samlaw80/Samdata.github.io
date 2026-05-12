@@ -5,7 +5,7 @@
 Chocolate Sales Analysis Dashboard
 
 **Tools Used:**
-Excel, Power BI
+ Power BI
 
 **Project Description:**
 This project involved analysing chocolate sales data to identify trends and patterns in product sales across countries from 2023-2024. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily identify best selling and underperforming products, compare revenue and volume by salesperson, track sales patterns over time and analyze sales distribution by country/region. The dashboard includes the following features:
