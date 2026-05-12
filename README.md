@@ -32,3 +32,24 @@ This dashboard serves as a crucial tool for the chocolate company’s management
 
 **Dashboard Overview:**
 [Power BI dashboard.png]
+
+
+## Project 2
+
+**Title:**
+Sample sales Dashboard
+
+**Tools Used:**
+ Excel
+
+**Project Description:**
+
+## Project 3
+
+**Title:**
+
+
+**Tools Used:**
+ SQL
+
+**Project Description:**
